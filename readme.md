@@ -12,8 +12,6 @@ Este é um modelo para desenvolvimento de plugin para o WordPress, com atualiza�
 Navegue até o diretório `/src`, instale o gerenciador de pacotes do Node.js e os seguintes pacotes:
 
 - npm `npm install`
-- grunt `npm install grunt`
-- node-sass `npm install node-sass grunt-sass`
 
 ### Nomes
 
